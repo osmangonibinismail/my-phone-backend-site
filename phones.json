@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 11",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-black-select-2019?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1566956144838",
+      "price": 699,
+      "description": "The iPhone 11 features a dual-camera system, A13 Bionic chip, and an all-day battery life."
+    },
+    {
+      "id": 2,
+      "name": "iPhone 12",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-family-hero-all?wid=2000&hei=2000&fmt=jpeg&qlt=80&.v=1604343703000",
+      "price": 799,
+      "description": "The iPhone 12 comes with 5G capability, Super Retina XDR display, and Ceramic Shield front cover."
+    },
+    {
+      "id": 3,
+      "name": "iPhone 12 Mini",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-hero?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1602278540000",
+      "price": 699,
+      "description": "The iPhone 12 Mini is a compact version of iPhone 12, with a 5.4-inch display and all the features of iPhone 12."
+    },
+    {
+      "id": 4,
+      "name": "iPhone 12 Pro",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-family-hero?wid=2000&hei=2000&fmt=jpeg&qlt=80&.v=1604021662000",
+      "price": 999,
+      "description": "The iPhone 12 Pro features a Pro camera system, LiDAR scanner, and A14 Bionic chip for professional-level performance."
+    },
+    {
+      "id": 5,
+      "name": "iPhone 12 Pro Max",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-max-family-hero?wid=2000&hei=2000&fmt=jpeg&qlt=80&.v=1604021662000",
+      "price": 1099,
+      "description": "The iPhone 12 Pro Max offers the largest display ever on an iPhone, along with advanced camera features and superior performance."
+    },
+    {
+      "id": 6,
+      "name": "iPhone SE",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-select-2020?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1586794482575",
+      "price": 399,
+      "description": "The iPhone SE packs the power of the A13 Bionic chip into the size of the iPhone 8, offering great value with familiar design."
+    },
+    {
+      "id": 7,
+      "name": "iPhone 11 Pro",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-select-2019?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1566960958082",
+      "price": 999,
+      "description": "The iPhone 11 Pro features a triple-camera system, Super Retina XDR display, and A13 Bionic chip for incredible performance."
+    },
+    {
+      "id": 8,
+      "name": "iPhone 11 Pro Max",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-select-2019?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1566956147959",
+      "price": 1099,
+      "description": "The iPhone 11 Pro Max offers the same features as iPhone 11 Pro with a larger display, providing an immersive experience."
+    },
+    {
+      "id": 9,
+      "name": "iPhone XR",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-white-select-201809?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1551226036359",
+      "price": 499,
+      "description": "The iPhone XR features a Liquid Retina display, A12 Bionic chip, and advanced Face ID for a fast and secure user experience."
+    },
+    {
+      "id": 10,
+      "name": "iPhone XS",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xs-silver-select-2018?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1551226034535",
+      "price": 899,
+      "description": "The iPhone XS features a Super Retina display, dual-camera system, and A12 Bionic chip for exceptional performance and photography."
+    },
+    {
+      "id": 11,
+      "name": "iPhone XS Max",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xs-max-gold-select-2018?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1551226035613",
+      "price": 999,
+      "description": "The iPhone XS Max features the largest display ever on an iPhone, along with the same features as iPhone XS, providing a premium experience."
+    },
+    {
+      "id": 12,
+      "name": "iPhone 8",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone8-select-2017?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1566956143705",
+      "price": 449,
+      "description": "The iPhone 8 features a Retina HD display, A11 Bionic chip, and wireless charging capability for a convenient and powerful user experience."
+    },
+    {
+      "id": 13,
+      "name": "iPhone 8 Plus",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-8-plus-select-2017?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1566956142491",
+      "price": 549,
+      "description": "The iPhone 8 Plus features a larger Retina HD display, dual-camera system, and A11 Bionic chip for enhanced performance and photography."
+    },
+    {
+      "id": 14,
+      "name": "iPhone 7",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone7-black-select-2016?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1566956144838",
+      "price": 349,
+      "description": "The iPhone 7 features a Retina HD display, A10 Fusion chip, and water resistance for a reliable and efficient smartphone experience."
+    },
+    {
+      "id": 15,
+      "name": "iPhone 7 Plus",
+      "photo_URL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone7-plus-black-select-2016?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1566956144189",
+      "price": 449,
+      "description": "The iPhone 7 Plus features a larger Retina HD display, dual-camera system, and A10 Fusion chip for powerful performance and photography."
+    }
+  ]
+  
